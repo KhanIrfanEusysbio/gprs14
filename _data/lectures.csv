@@ -5,7 +5,7 @@ Wednesday,12,February,8:30,11:30,**Introduction to Gaussian Processes**,./assets
 Wednesday,12,February,14:30,17:30,**Practical session**,lab.html,lab2.ipynb,Neil Lawrence,University of Sheffield,
 Thursday,13,February,08:30,09:30,**Practical session: Playing with Covariance Functions**,lab.html,lab2.ipynb,Neil Lawrence,University of Sheffield,
 Thursday,13,February,09:45,11:00,**Multi-output GPs**,./assets/multiOutput.pdf,,Neil Lawrence,University of Sheffield,
-Thursday,13,February,11:15,12:30,**Practical session: Multioutput GPs,Predicting Olympic Data**,./lab.html,lab3.ipynb,Neil Lawrence,University of Sheffield,
+Thursday,13,February,11:15,12:30,"**Practical session: Multioutput GPs, Predicting Olympic Data**",./lab.html,lab3.ipynb,Neil Lawrence,University of Sheffield,
 Thursday,13,February,14:30,15:45,**Low Rank GPs**,./assets/lowRank.pdf,,Neil Lawrence,University of Sheffield,
 Thursday,13,February,15:45,16:30,**Practical session**,lab.html,lab3.ipynb,Neil Lawrence,University of Sheffield,
 Thursday,13,February,16:30,17:30,**Non Gaussian Likelihoods**,./assets/nonGaussian.pdf,,Neil Lawrence,University of Sheffield,
