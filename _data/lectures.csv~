@@ -1,11 +1,19 @@
 day,date,month,start,end,title,pdf,ipynb,speaker,institution,youtube
-Tuesday,6,August,9:30,10:45,**Linear Regression**,./assets/session1.pdf,,Neil Lawrence,University of Sheffield,QkXvNVMO78A
-Tuesday,6,August,11:15,12:30,**Lab Class**,./assets/lab0.pdf,labs_gprs13.ipynb,Ricardo Andrade Pacheco and Neil Lawrence,University of Sheffield,JNu_-E1NszI
-Wednesday,7,August,9:30,10:30,"**Basis Functions**",./assets/session2.pdf,,Neil Lawrence,University of Sheffield,PoNbOnUnOao
-Wednesday,7,August,10:30,11:00,**Lab Class**,./assets/lab0.pdf,labs_gprs13.ipynb,Ricardo Andrade Pacheco and Neil Lawrence,University of Sheffield,
-Wednesday,7,August,11:30,12:30,"**Model Selection and Bayesian Inference**",./assets/session2.pdf,,Neil Lawrence,University of Sheffield,RJEHuzgHl98
-Thursday,8,August,,,Eid Holiday,,,,
-Friday,9,August,9:30,10:15,**Gaussian Processes I**,./assets/session3.pdf,,Neil Lawrence, University of Sheffield,BETEUTO3CPM
-Friday,9,August,10:15,11:00,**Lab Class**,./assets/lab1.pdf,labs_gprs13.ipynb,Ricardo Andrade Pacheco and Neil Lawrence,University of Sheffield,
-Friday,9,August,11:30,12:30,**Gaussian Processes II**,./assets/session3.pdf,,Neil Lawrence, University of Sheffield,MqgGqEcpsQY
-Friday,9,August,14:00,,**Bring Your Own Data**,,,Neil Lawrence and Ricardo Andrade Pacheco, University of Sheffield,
+Tuesday,11,February,8:30,11:30,**Introduction to Gaussian Processes**,./assets/session1.pdf,,Neil Lawrence,University of Sheffield,
+Tuesday,11,February,14:30,17:30,**Practical session**,./lab.html,lab1.ipynb,Neil Lawrence,University of Sheffield,
+Wednesday,12,February,8:30,11:30,**Introduction to Gaussian Processes**,./assets/session2.pdf,,Neil Lawrence,University of Sheffield,
+Wednesday,12,February,14:30,17:30,**Practical session**,lab.html,lab2.ipynb,Neil Lawrence,University of Sheffield,
+Thursday,13,February,08:30,09:30,**Practical session: Playing with Covariance Functions**,lab.html,lab2.ipynb,Neil Lawrence,University of Sheffield,
+Thursday,13,February,09:45,11:00,**Multi-output GPs**,./assets/multiOutput.pdf,,Neil Lawrence,University of Sheffield,
+Thursday,13,February,11:15,12:30,"**Practical session: Multioutput GPs, Predicting Olympic Data**",./lab.html,lab3.ipynb,Neil Lawrence,University of Sheffield,
+Thursday,13,February,14:30,15:45,**Low Rank GPs**,./assets/lowRank.pdf,,Neil Lawrence,University of Sheffield,
+Thursday,13,February,15:45,16:30,**Practical session**,lab.html,lab3.ipynb,Neil Lawrence,University of Sheffield,
+Thursday,13,February,16:30,17:30,**Non Gaussian Likelihoods**,./assets/nonGaussian.pdf,,Neil Lawrence,University of Sheffield,
+Friday,14,February,8:30,9:30,**Practical session: Non Gaussian Likelihoods**,lab.html,lab3.ipynb,Neil Lawrence,University of Sheffield,
+Friday,14,February,9:30,10:15,**Latent Variable Models**,./assets/lvm.pdf,,Neil Lawrence,University of Sheffield,
+Friday,14,February,10:30,11:30,**Latent Force Models**,./assets/lfm.pdf,,Neil Lawrence,University of Sheffield,
+Friday,14,February,14:30,15:00,**Non Linear Latent Variable Models**,./assets/gp-lvm.pdf,,Neil Lawrence,University of Sheffield,
+Friday,14,February,15:00,16:00,**Practical session**,lab.html,lab4.ipynb,,Neil Lawrence,University of Sheffield,
+Friday,14,February,16:00,17:30,**Deep Gaussian Processes**,./assets/deep.pdf,,Neil Lawrence,University of Sheffield,
+
+
